@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/underbridgeFrontEnd/static/css/main.9043c23e.css",
+    "main.js": "/underbridgeFrontEnd/static/js/main.5af3b669.js",
+    "index.html": "/underbridgeFrontEnd/index.html",
+    "main.9043c23e.css.map": "/underbridgeFrontEnd/static/css/main.9043c23e.css.map",
+    "main.5af3b669.js.map": "/underbridgeFrontEnd/static/js/main.5af3b669.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9043c23e.css",
+    "static/js/main.5af3b669.js"
+  ]
+}
